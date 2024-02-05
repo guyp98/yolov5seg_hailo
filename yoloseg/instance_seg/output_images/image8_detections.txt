@@ -1,0 +1,8 @@
+Detection object name:          vase
+Detection object id:            76
+Detection object confidence:    0.840462
+Detection object Xmax:          481.178
+Detection object Xmin:          153.999
+Detection object Ymax:          535.597
+Detection object Ymin:          92.824
+

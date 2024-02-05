@@ -1,0 +1,16 @@
+Detection object name:          person
+Detection object id:            1
+Detection object confidence:    0.916743
+Detection object Xmax:          502.874
+Detection object Xmin:          276.042
+Detection object Ymax:          585.579
+Detection object Ymin:          70.5108
+
+Detection object name:          skis
+Detection object id:            31
+Detection object confidence:    0.536441
+Detection object Xmax:          613.267
+Detection object Xmin:          209.602
+Detection object Ymax:          612.713
+Detection object Ymin:          547.325
+

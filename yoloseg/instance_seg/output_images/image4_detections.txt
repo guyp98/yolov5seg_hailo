@@ -1,0 +1,32 @@
+Detection object name:          motorcycle
+Detection object id:            4
+Detection object confidence:    0.920168
+Detection object Xmax:          511.082
+Detection object Xmin:          166.653
+Detection object Ymax:          429.472
+Detection object Ymin:          200.924
+
+Detection object name:          car
+Detection object id:            3
+Detection object confidence:    0.890708
+Detection object Xmax:          622.57
+Detection object Xmin:          456.955
+Detection object Ymax:          265.573
+Detection object Ymin:          150.868
+
+Detection object name:          car
+Detection object id:            3
+Detection object confidence:    0.380191
+Detection object Xmax:          639.61
+Detection object Xmin:          601.346
+Detection object Ymax:          366.105
+Detection object Ymin:          145.176
+
+Detection object name:          car
+Detection object id:            3
+Detection object confidence:    0.271506
+Detection object Xmax:          633.006
+Detection object Xmin:          616.065
+Detection object Ymax:          166.009
+Detection object Ymin:          147.568
+

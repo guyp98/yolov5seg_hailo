@@ -1,0 +1,8 @@
+Detection object name:          dog
+Detection object id:            17
+Detection object confidence:    0.916884
+Detection object Xmax:          470.262
+Detection object Xmin:          183.668
+Detection object Ymax:          491.615
+Detection object Ymin:          152.392
+

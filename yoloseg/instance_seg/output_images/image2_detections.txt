@@ -1,0 +1,16 @@
+Detection object name:          bottle
+Detection object id:            40
+Detection object confidence:    0.873563
+Detection object Xmax:          367.231
+Detection object Xmin:          227.288
+Detection object Ymax:          598.727
+Detection object Ymin:          27.1768
+
+Detection object name:          dining table
+Detection object id:            61
+Detection object confidence:    0.650274
+Detection object Xmax:          529.012
+Detection object Xmin:          109.385
+Detection object Ymax:          639.496
+Detection object Ymin:          473.341
+

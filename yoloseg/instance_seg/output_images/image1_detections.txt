@@ -1,0 +1,8 @@
+Detection object name:          bird
+Detection object id:            15
+Detection object confidence:    0.916455
+Detection object Xmax:          539.672
+Detection object Xmin:          334.871
+Detection object Ymax:          520.799
+Detection object Ymin:          143.702
+

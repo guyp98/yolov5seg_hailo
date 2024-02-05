@@ -1,0 +1,8 @@
+Detection object name:          clock
+Detection object id:            75
+Detection object confidence:    0.382303
+Detection object Xmax:          607.624
+Detection object Xmin:          220.337
+Detection object Ymax:          477.847
+Detection object Ymin:          177.14
+
